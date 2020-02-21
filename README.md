@@ -1,0 +1,1 @@
+locationiq-scalaz-client
